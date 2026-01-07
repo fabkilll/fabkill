@@ -9,3 +9,6 @@ If you want to know more about me check out The Links!
 * Youtube: https://www.youtube.com/@fabkilll
 * Tiktok: https://www.tiktok.com/@fabkill
 * Discord: https://discord.com/users/916789498124304404
+
+# 🔓・Public Directories
+* None
