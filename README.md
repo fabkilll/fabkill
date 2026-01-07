@@ -3,7 +3,7 @@
 Hello I'm fabkill! I code a lot of stuff (Especially in Minecraft)
 If you want to know more about me check out The Links!
 
-## 🛜・Links
+# 🛜・Links
 * Portfolio: https://fabkill.netlify.app
 * My Project: https://sythdragon.com
 * Youtube: https://www.youtube.com/@fabkilll
