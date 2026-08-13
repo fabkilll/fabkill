@@ -19,7 +19,7 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 
 </div>
-<div style="text-align: center;" class="techstack">
+<div style="text-align: center;" class="currentlylearning">
 
 ## ▁ ▂ ▄ ▅ Currently learning ▅ ▄ ▂ ▁
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -30,7 +30,7 @@
 ![React](https://skillicons.dev/icons?i=react)
 
 </div>
-<div style="text-align: center;" class="techstack">
+<div style="text-align: center;" class="ides">
 
 ## ▁ ▂ ▄ ▅ IDE's I use ▅ ▄ ▂ ▁
 ![IntelliJ](https://skillicons.dev/icons?i=idea)
@@ -38,13 +38,13 @@
 ![Rider](https://skillicons.dev/icons?i=rider)
 
 </div>
-<div style="text-align: center;" class="techstack">
+<div style="text-align: center;" class="githubstats">
 
 ## ▁ ▂ ▄ ▅ Github stats ▅ ▄ ▂ ▁
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=fabkilll&hide_title=true&custom_title=My%20stats&show_icons=true&include_all_commits=true&theme=kacho_ga)](https://github-stats-extended.vercel.app/api?username=fabkilll&hide_title=true&custom_title=My%20stats&show_icons=true&include_all_commits=true&theme=kacho_ga)
 
 </div>
-<div style="text-align: center;" class="techstack">
+<div style="text-align: center;" class="projects">
 
 ## ▁ ▂ ▄ ▅ Projects ▅ ▄ ▂ ▁
 
