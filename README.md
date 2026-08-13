@@ -1,14 +1,54 @@
-# 👋・About me
+<div style="text-align: center;" class="aboutme">
 
-Hello I'm fabkill! I code a lot of stuff (Especially in Minecraft)
-If you want to know more about me check out The Links!
+# Hey, I'm fabkill! 👋
 
-# 🛜・Links
-* Portfolio: https://fabkill.netlify.app
-* My Project: https://sythdragon.com
-* Youtube: https://www.youtube.com/@fabkilll
-* Tiktok: https://www.tiktok.com/@fabkill
-* Discord: https://discord.com/users/916789498124304404
+## ▁ ▂ ▄ ▅ About me ▅ ▄ ▂ ▁
+<p>Hey, I'm fabkill and I study computer science at a higher technical college.<br> I mainly focus on web development (which I am learning right now) and Minecraft Plugin Development. </p>
+<p>I have about 1 year of experience, and I'm always dedicated to learn something new!<br>If you have any questions regarding Minecraft Plugin Development, don't hesitate to contact me on discord!</p>
 
-# 🔓・My public directories
-* Homepage: https://github.com/fabkilll/fabkill/tree/main (The Page you are at now)
+</div>
+<div style="text-align: center;" class="techstack">
+
+## ▁ ▂ ▄ ▅  Tech Stack ▅ ▄ ▂ ▁
+![Java](https://skillicons.dev/icons?i=java)
+![C#](https://skillicons.dev/icons?i=cs)
+![Godot](https://skillicons.dev/icons?i=godot)
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
+![HTML](https://skillicons.dev/icons?i=html)
+
+</div>
+<div style="text-align: center;" class="techstack">
+
+## ▁ ▂ ▄ ▅ Currently learning ▅ ▄ ▂ ▁
+![CSS](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=js)
+![TS](https://skillicons.dev/icons?i=ts)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![React](https://skillicons.dev/icons?i=react)
+
+</div>
+<div style="text-align: center;" class="techstack">
+
+## ▁ ▂ ▄ ▅ IDE's I use ▅ ▄ ▂ ▁
+![IntelliJ](https://skillicons.dev/icons?i=idea)
+![Webstorm](https://skillicons.dev/icons?i=webstorm)
+![Rider](https://skillicons.dev/icons?i=rider)
+
+</div>
+<div style="text-align: center;" class="techstack">
+
+## ▁ ▂ ▄ ▅ Github stats ▅ ▄ ▂ ▁
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=fabkilll&hide_title=true&custom_title=My%20stats&show_icons=true&include_all_commits=true&theme=kacho_ga)](https://github-stats-extended.vercel.app/api?username=fabkilll&hide_title=true&custom_title=My%20stats&show_icons=true&include_all_commits=true&theme=kacho_ga)
+
+</div>
+<div style="text-align: center;" class="techstack">
+
+## ▁ ▂ ▄ ▅ Projects ▅ ▄ ▂ ▁
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=fabkilll&repo=fabkilll%2FSythInfiniteBlocks&theme=kacho_ga)](https://github.com/fabkilll/SythInfiniteBlocks)
+
+More will come soon, Thanks for looking through! ❤️
+</div>
