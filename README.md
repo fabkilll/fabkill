@@ -1,13 +1,11 @@
-<div style="text-align: center;" class="aboutme">
+<div align="center" class="aboutme">
 
-<h1>Hey, I'm fabkill! 👋</h1>
+# Hey, I'm fabkill! 👋
 
-<h2>▁ ▂ ▄ ▅ About me ▅ ▄ ▂ ▁</h2>
+## ▁ ▂ ▄ ▅ About me ▅ ▄ ▂ ▁
 <p>Hey, I'm fabkill and I study computer science at a higher technical college.<br> I mainly focus on web development (which I am learning right now) and Minecraft Plugin Development. </p>
 <p>I have about 1 year of experience, and I'm always dedicated to learn something new!<br>If you have any questions regarding Minecraft Plugin Development, don't hesitate to contact me on discord!</p>
 
-</div>
-<div style="text-align: center;" class="techstack">
 
 ## ▁ ▂ ▄ ▅  Tech Stack ▅ ▄ ▂ ▁
 ![Java](https://skillicons.dev/icons?i=java)
@@ -18,8 +16,6 @@
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![HTML](https://skillicons.dev/icons?i=html)
 
-</div>
-<div style="text-align: center;" class="currentlylearning">
 
 ## ▁ ▂ ▄ ▅ Currently learning ▅ ▄ ▂ ▁
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -29,22 +25,16 @@
 ![Express](https://skillicons.dev/icons?i=express)
 ![React](https://skillicons.dev/icons?i=react)
 
-</div>
-<div style="text-align: center;" class="ides">
 
 ## ▁ ▂ ▄ ▅ IDE's I use ▅ ▄ ▂ ▁
 ![IntelliJ](https://skillicons.dev/icons?i=idea)
 ![Webstorm](https://skillicons.dev/icons?i=webstorm)
 ![Rider](https://skillicons.dev/icons?i=rider)
 
-</div>
-<div style="text-align: center;" class="githubstats">
 
 ## ▁ ▂ ▄ ▅ Github stats ▅ ▄ ▂ ▁
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=fabkilll&hide_title=true&custom_title=My%20stats&show_icons=true&include_all_commits=true&theme=kacho_ga)](https://github-stats-extended.vercel.app/api?username=fabkilll&hide_title=true&custom_title=My%20stats&show_icons=true&include_all_commits=true&theme=kacho_ga)
 
-</div>
-<div style="text-align: center;" class="projects">
 
 ## ▁ ▂ ▄ ▅ Projects ▅ ▄ ▂ ▁
 
